@@ -8,6 +8,6 @@
 
 ![](https://www.gqgwr.cn/upload/musicback%20(3).png)
 
-![](https://www.gqgwr.cn/upload/musicback%20(1).png)
+![](https://www.gqgwr.cn/upload/musicback%20(1).PNG)
 
-![](https://www.gqgwr.cn/upload/musicback%20(2).png)
+![](https://www.gqgwr.cn/upload/musicback%20(2).PNG)
