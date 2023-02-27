@@ -2,7 +2,7 @@
 
 ### 项目未完善(仅供参考)
 
-后端使用的是Spring Boot Mabtis （后端技术较垃圾，和我的农产品进销存管理系统类似的后台，所以暂未开源）
+后端使用的是Spring Boot Mabtis （后端技术较一般，和我另一个农产品管理后台类似，所以暂未开源）
 
 使用技术 vue3 vite element-plus
 
