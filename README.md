@@ -10,6 +10,8 @@
 页面都是自行设计 (不好看的话，谅解)
 ![](https://www.gqgwr.cn/upload/musicback%20(3).png)
 
+![](https://www.gqgwr.cn/upload/musicback(4).PNG)
+
 ![](https://www.gqgwr.cn/upload/musicback%20(2).PNG)
 
 ![](https://www.gqgwr.cn/upload/musicback%20(1).PNG)
